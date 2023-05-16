@@ -1,0 +1,152 @@
+/*body {
+
+    background-image: url(https://duskrider.ru/wp-content/uploads/2020/08/kamchatka128.jpg);
+    
+    background-repeat: no-repeat;
+    
+    background-position: center center;
+    
+    background-attachment: fixed;
+    
+    -webkit-background-size: cover;
+    
+    -moz-background-size: cover;
+    
+    -o-background-size: cover;
+    
+    background-size: cover;
+    
+    } */
+body { 
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  animation: bg-сhange 50s ease infinite;
+}
+    @keyframes bg-сhange {
+        from {
+          background-image: url(https://duskrider.ru/wp-content/uploads/2020/08/kamchatka128.jpg);
+          background-repeat: no-repeat;
+    
+    background-position: center center;
+    
+    background-attachment: fixed;
+    
+    -webkit-background-size: cover;
+    
+    -moz-background-size: cover;
+    
+    -o-background-size: cover;
+    
+    background-size: cover;
+        }
+  
+        20% {
+          background-image: url(https://duskrider.ru/wp-content/uploads/2020/08/kamchatka128.jpg);
+          background-repeat: no-repeat;
+    
+    background-position: center center;
+    
+    background-attachment: fixed;
+    
+    -webkit-background-size: cover;
+    
+    -moz-background-size: cover;
+    
+    -o-background-size: cover;
+    
+    background-size: cover;
+        }
+  
+        40% {
+          background-image: url(https://funart.pro/uploads/posts/2022-08/1660579461_50-funart-pro-p-vulkani-kamchatki-priroda-krasivo-foto-51.jpg);
+          background-repeat: no-repeat;
+    
+          background-position: center center;
+          
+          background-attachment: fixed;
+          
+          -webkit-background-size: cover;
+          
+          -moz-background-size: cover;
+          
+          -o-background-size: cover;
+          
+          background-size: cover;
+        }
+  
+        60% {
+          background-image: url(https://cdn.culture.ru/images/2d30ad5f-1e17-5571-86aa-ad1bf41a7870);
+          background-repeat: no-repeat;
+    
+          background-position: center center;
+          
+          background-attachment: fixed;
+          
+          -webkit-background-size: cover;
+          
+          -moz-background-size: cover;
+          
+          -o-background-size: cover;
+          
+          background-size: cover;
+        }
+  
+  
+        80% {
+          background-image: url(https://sportishka.com/uploads/posts/2022-11/1667573890_62-sportishka-com-p-kamchatka-dostoprimechatelnosti-oboi-66.jpg);
+          background-repeat: no-repeat;
+    
+          background-position: center center;
+          
+          background-attachment: fixed;
+          
+          -webkit-background-size: cover;
+          
+          -moz-background-size: cover;
+          
+          -o-background-size: cover;
+          
+          background-size: cover;
+        }
+  
+  
+        95% {
+          background-image: url(http://ic.pics.livejournal.com/ratbud1/66376806/3587/3587_original.jpg);
+          background-repeat: no-repeat;
+    
+          background-position: center center;
+          
+          background-attachment: fixed;
+          
+          -webkit-background-size: cover;
+          
+          -moz-background-size: cover;
+          
+          -o-background-size: cover;
+          
+          background-size: cover;
+        }
+  
+        to {
+          background-image: url(https://duskrider.ru/wp-content/uploads/2020/08/kamchatka128.jpg);
+          background-repeat: no-repeat;
+    
+          background-position: center center;
+          
+          background-attachment: fixed;
+          
+          -webkit-background-size: cover;
+          
+          -moz-background-size: cover;
+          
+          -o-background-size: cover;
+          
+          background-size: cover;
+        }
+      }
+  
+      
+    
